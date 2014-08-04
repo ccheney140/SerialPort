@@ -68,9 +68,10 @@ namespace SerialPort
 
         private void button1_Click(object sender, EventArgs e)
         {
+            String data = txtDatatoSend.Text;
             DateTime dt = DateTime.Now;
             String dtn = dt.ToShortTimeString();
-            String data = txtDatatoSend.Text;
+            
             sport.Write(data);
             txtReceive.AppendText("[" + dtn + "] " + "Sent: " + data + "\n");
         }
@@ -88,5 +89,9 @@ namespace SerialPort
                 txtReceive.AppendText("[" + dtn + "] " + "Disconnected\n");
             }
         }
+
+
+
+       
     }
 }

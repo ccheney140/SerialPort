@@ -16,3 +16,16 @@ D:\Programming\C#\2012\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveA
 D:\Programming\C#\2012\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
 D:\Programming\C#\2012\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
 D:\Programming\C#\2012\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+C:\Users\Connor\Desktop\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
+C:\Users\Connor\Desktop\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+C:\Users\Connor\Desktop\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.Form1.resources
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.Cache
+C:\Users\Connor\Desktop\SerialPort\SerialPort\bin\Debug\SerialPort.exe.manifest
+C:\Users\Connor\Desktop\SerialPort\SerialPort\bin\Debug\SerialPort.application
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.exe.manifest
+C:\Users\Connor\Desktop\SerialPort\SerialPort\obj\Debug\SerialPort.application
